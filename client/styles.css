@@ -1,0 +1,78 @@
+h2 {
+    text-align: center;
+    margin: 0px 500px;
+    padding: 20px;
+    font-size: 30px;
+    font-style: bold;
+}
+#products {
+    display: inline-block;
+    padding: 30px;
+    width: 16%;
+}
+
+#popular{
+    background-color: #9CB65F;
+}
+
+#gifts{
+    background-color: #F18F01;
+}
+img {
+    width: 250px;
+
+}
+p {
+font-size: 20px;
+}
+
+input {
+    background: rgb(78, 168, 108);
+    color:white;
+}
+#whiteboy {
+    color:white;
+}
+
+#logo {
+    width: 50px;
+    padding: 5px;
+}
+#huehue {
+    background-image: url('img/abs-adult-athlete-258007.jpg')
+}
+::placeholder {
+    color: white;
+}
+
+#megaid {
+    background-image: url('img/rocky.jpg');
+    background-repeat: no-repeat;
+    color:white;
+    
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }

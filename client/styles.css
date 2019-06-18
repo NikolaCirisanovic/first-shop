@@ -30,27 +30,18 @@ input {
     background: rgb(78, 168, 108);
     color:white;
 }
-#whiteboy {
-    color:white;
-}
+
 
 #logo {
     width: 50px;
     padding: 5px;
 }
-#huehue {
-    background-image: url('img/abs-adult-athlete-258007.jpg')
-}
+
+
 ::placeholder {
     color: white;
 }
 
-#megaid {
-    background-image: url('img/rocky.jpg');
-    background-repeat: no-repeat;
-    color:white;
-    
-}
 
 
 ul {
@@ -61,18 +52,18 @@ ul {
     background-color: #333;
   }
   
-  li {
+li {
     float: left;
-  }
+}
   
-  li a {
+li a {
     display: block;
     color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-  }
+}
   
-  li a:hover {
+li a:hover {
     background-color: #111;
-  }
+}

@@ -1,8 +1,32 @@
+#searchbar {
+    margin: 5%;
+    color:black;
+    height: 25px;
+    float:left;
+    margin-top: 15px;
+}
+
+:placeholder-shown {
+    color: black;
+}
+
+::placeholder {
+    color: black;
+}
+
 h2 {
     text-align: center;
     margin: 0px 500px;
-    padding: 20px;
-    font-size: 30px;
+    padding: 30px;
+    font-size: 35px;
+    font-style: bold;
+}
+
+.description {
+    font-style: italic;
+}
+
+#price {
     font-style: bold;
 }
 #products {
@@ -11,6 +35,9 @@ h2 {
     width: 16%;
 }
 
+button {
+    background-color: #048BA8
+}
 #popular{
     background-color: #9CB65F;
 }

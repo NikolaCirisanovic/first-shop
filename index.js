@@ -4,9 +4,9 @@ const express = require("express");
 const app = express();
 
 
-// app.get("/", (req, res) => {
-//   res.send();
-// });
+    // app.get("/", (req, res) => {
+    //   res.send();
+    // });
 
 
 app.use(express.static(path.join(__dirname, 'client')))
